@@ -5,3 +5,6 @@ I Dont Think goose really has aura
 but
 that's my guy so whatever
 ```
+- [x] Has the drip
+- [x] Hits his parlays
+- [x] Is called "Him"
